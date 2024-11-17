@@ -65,10 +65,10 @@ Stay connected for new projects, tutorials, and updates on the latest trends in 
 
 ## Thank You for Visiting! 🎉
 
-I'm thrilled to have you here on my profile. Whether you're a fellow developer, a potential collaborator, or just someone who appreciates quality software, I hope my work resonates with you. Feel free to check out my repositories, visit my personal portfolio, and let's build something amazing together!
+I'm thrilled to have you here on my profile. Whether you're a fellow developer, a potential collaborator, or just someone who appreciates quality software, I hope my work resonates with you. Feel free to check out my repositories, visit my portfolio, and let's build something amazing together!
 
 ---
 
-*This profile is powered by the passion and creativity of [LiwaTec Software Company](https://www.liwatecsoftware.com), where we turn ideas into real-world software solutions.*
+*This profile is powered by the passion and creativity of [LiwaTec Software Company](https://www.liwatecsoftware.xyz), where we turn ideas into real-world software solutions.*
 
 #softwaredeveloper #gamedeveloper #opensource #tech #programming #gamecreation #collaboration #polyglot #polymath #softwareengineering #gameDev
