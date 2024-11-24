@@ -37,10 +37,6 @@ I work with a wide range of technologies and programming languages to build high
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
 - **Platforms:** Web, Desktop (Windows, macOS, Linux), Mobile (iOS, Android).
 
-## Featured Projects 🌟
-
-### Coming Soon
-
 ## Let's Collaborate! 🤝
 
 I'm always open to collaboration and contributing to exciting projects. If you have an interesting idea, game concept, or tool you need to develop, don't hesitate to reach out to me. I'm particularly interested in:
